@@ -1,5 +1,3 @@
-# Water Quality And Potability
- 
 # Water Potability Prediction Web App
 
 
