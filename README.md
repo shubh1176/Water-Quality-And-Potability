@@ -14,7 +14,7 @@ This repository contains a web application built with Streamlit for predicting t
 ### Features
 
 - User-friendly web interface for inputting water quality parameters.
-- Utilizes a pre-trained machine learning model (e.g., VotingClassifier) to make predictions.
+- Utilizes deep learning model.
 - Displays the prediction result, indicating whether the water is potable or not.
 
 ## Project Structure
