@@ -3,7 +3,8 @@
 # Water Potability Prediction Web App
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.5.0%2B-brightgreen)
+
+<img width="1430" alt="Screenshot 2023-10-21 at 5 58 19 PM" src="https://github.com/shubh1176/Water-Quality-And-Potability/assets/90206013/3c8b522d-7e30-4622-b27b-18ab3ee7c89b">
 
 ## Overview
 
