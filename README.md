@@ -33,14 +33,6 @@ This repository contains a web application built with Streamlit for predicting t
 
 The project includes support for ensemble models like VotingClassifier. It provides guidance on how to save and load such models to ensure proper functionality.
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests if you have suggestions for improvements or additional features.
-
-## License
-
-This project is licensed under the  - see the [LICENSE](LICENSE) file for details.
-
 
 ![image](https://github.com/shubh1176/Water-Quality-And-Potability/assets/90206013/808d8c3b-675a-475f-a3d9-cf6886b2ddc5)
 ![image](https://github.com/shubh1176/Water-Quality-And-Potability/assets/90206013/8b813cfb-0aa4-44de-89ae-93cdc62c2fc1)
