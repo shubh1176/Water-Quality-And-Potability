@@ -18,13 +18,13 @@ st.image("img.png", caption=" ", use_column_width=True)
 st.markdown(background_color, unsafe_allow_html=True)
 
 # Load the pre-trained model
-#model = joblib.load('model/model.pkl')
+model = tf.keras.models.load_model("model/model1.h5")
 
 # Create a function to predict water potability
 def predict_potability(input_data):
     # Ensure input data is in the correct order
     input_data = input_data[['Turbidity', 'Hardness', 'Sulfate', 'Solids', 'Trihalomethanes', 'Chloramines', 'Conductivity', 'Organic_carbon', 'pH']]
-    input_array = np.array(input_data)
+    input_array = np.array(input_data).reshape(1, -1)
     prediction = model.predict(input_array)
     return prediction[0][0]
 
